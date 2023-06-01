@@ -11,7 +11,6 @@ import 'antd/dist/antd.css';
 import './style.css';
 
 const { Header, Footer, Content } = Layout;
-
 class App extends Component {
 	render() {
 		return(
